@@ -1,6 +1,6 @@
 # Serverless Framework で Slack 通知を送るまで
 
-このガイドでは、Serverless Framework を使用して Slack に通知を送る方法を説明します。
+Serverless Framework を使用して Slack に通知を送る方法を説明
 
 ## 手順
 
